@@ -1,0 +1,6 @@
+{"doc_id":"venue_a","section":"capacity","text":"Venue A in Pune accommodates 30 attendees in its workshop room.","chunk_id":"venue_a#capacity"}
+{"doc_id":"venue_a","section":"cancellation","text":"Venue A cancellation: cancellations made 14 days before the workshop receive a full refund.","chunk_id":"venue_a#cancellation"}
+{"doc_id":"venue_a","section":"catering","text":"Venue A provides on-site vegetarian and non-vegetarian catering for workshop bookings.","chunk_id":"venue_a#catering"}
+{"doc_id":"travel","section":"standard","text":"Standard business travel reimbursement requires original receipts.","chunk_id":"travel#standard"}
+{"doc_id":"travel","section":"international","text":"International travel requires manager approval before booking.","chunk_id":"travel#international"}
+{"doc_id":"travel","section":"late_booking","text":"Bookings made after travel require a documented exception approved by finance.","chunk_id":"travel#late_booking"}

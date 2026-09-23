@@ -1,0 +1,5 @@
+[
+ {"id":"workshop_multi_intent","events":[{"timestamp_s":0.0,"text":"I need a workshop venue in","utterance_id":"u1"},{"timestamp_s":0.8,"text":"Pune for 30 people and need cancellation","utterance_id":"u1"},{"timestamp_s":1.4,"text":"terms and catering options","utterance_id":"u1","is_final":true}]},
+ {"id":"presentation_only","events":[{"timestamp_s":0.0,"text":"Make that shorter in bullets","utterance_id":"u2","is_final":true}]},
+ {"id":"partial_voice_query","events":[{"timestamp_s":0.0,"text":"Can you tell me the cancellation","utterance_id":"u3"},{"timestamp_s":0.7,"text":"policy for Venue A in Pune","utterance_id":"u3","is_final":true}]}
+]
